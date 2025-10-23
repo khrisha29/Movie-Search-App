@@ -14,11 +14,12 @@ Features:
 
 5. Smooth hover effects on buttons and movie cards
 
-6. Fully responsive layout for mobile, tablet, and desktop
-
-7. Warm beige and brown color theme for a modern look
+6. Warm beige and brown color theme for a modern look
 
 
 Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
+
+PREVIEW:
+<img width="1891" height="875" alt="image" src="https://github.com/user-attachments/assets/a38c9e6c-64a6-4a6a-a4b2-47b5157b5c7a" />
 
 
