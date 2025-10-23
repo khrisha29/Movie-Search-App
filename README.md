@@ -1,26 +1,24 @@
-
-🎬 Movie Search App
+🎬 MOVIE SEARCH APP
 
 A responsive React web app to search for movies using the OMDb API. View movie posters, titles, release years, and click cards to open IMDb pages. The app includes loading indicators, error handling, smooth hover animations, and a warm beige/brown theme for an interactive and polished experience.
 
-Features
+Features:
 
-Search Movies: Type any movie name and fetch results instantly.
+1. Search movies by name and fetch results instantly
 
-Clickable Movie Cards: Open the movie’s IMDb page by clicking its card.
+2. Clickable movie cards that open IMDb pages in a new tab
 
-Loading Indicators: Spinner animation shows while fetching data.
+3. Loading spinner while fetching data
 
-Error Handling: Displays friendly messages if no results are found or API requests fail.
+4. Friendly error messages for no results or API issues
 
-Interactive Design: Smooth hover effects on movie cards and buttons.
+5. Smooth hover effects on buttons and movie cards
 
-Responsive Layout: Works perfectly on mobile, tablet, and desktop devices.
+6. Fully responsive layout for mobile, tablet, and desktop
 
-Warm Theme: Elegant beige and brown color palette for a modern, comfortable look.
+7. Warm beige and brown color theme for a modern look
+
+
 Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-oubleshooting#npm-run-build-fails-to-minify)
