@@ -17,6 +17,7 @@ Features:
 6. Warm beige and brown color theme for a modern look
 
 Technologies Stack:
+
 React, OMDb API, CSS3
 
 
