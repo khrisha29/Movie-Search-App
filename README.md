@@ -16,10 +16,14 @@ Features:
 
 6. Warm beige and brown color theme for a modern look
 
+Technologies Stack:
+React, OMDb API, CSS3
+
 
 Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
 
 PREVIEW:
+
 <img width="1891" height="875" alt="image" src="https://github.com/user-attachments/assets/a38c9e6c-64a6-4a6a-a4b2-47b5157b5c7a" />
 
 
