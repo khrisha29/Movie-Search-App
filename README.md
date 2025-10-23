@@ -21,8 +21,6 @@ Technologies Stack:
 React, OMDb API, CSS3
 
 
-Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
-
 PREVIEW:
 
 <img width="1889" height="864" alt="image" src="https://github.com/user-attachments/assets/fc5fb895-b8e9-4cba-90fe-7c41045a1a40" />
