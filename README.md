@@ -25,6 +25,8 @@ Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
 
 PREVIEW:
 
-<img width="1891" height="875" alt="image" src="https://github.com/user-attachments/assets/a38c9e6c-64a6-4a6a-a4b2-47b5157b5c7a" />
+<img width="1889" height="864" alt="image" src="https://github.com/user-attachments/assets/fc5fb895-b8e9-4cba-90fe-7c41045a1a40" />
+
+<img width="1882" height="869" alt="image" src="https://github.com/user-attachments/assets/0a02ff05-2ade-4ab0-b7f0-967e4883fa47" />
 
 
